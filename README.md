@@ -1,4 +1,4 @@
-# 🏁 F1DASH
+# 🏁 F1TelemetryX
 What If the F1 2025 Season Was One Race?
 A Python-based motorsport simulation & visual analytics project that reimagines an entire Formula 1 championship season as a single continuous race.
 Instead of replaying a Grand Prix, this system transforms 24 rounds of cumulative championship points into:
