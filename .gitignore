@@ -1,0 +1,16 @@
+# Heavy render data
+render_frames_all/
+
+# FastF1 cache
+cache/
+
+# Videos
+*.mp4
+
+# Python junk
+pycache/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
