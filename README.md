@@ -360,7 +360,7 @@ FastF1 integration provides:
 
 ## 📄 License
 
-This project is intended for educational and research purposes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full terms.
 
 ---
 
